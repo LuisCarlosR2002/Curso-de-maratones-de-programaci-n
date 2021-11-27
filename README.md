@@ -1,1 +1,1 @@
-# Curso-de-maratones-de-programaci-n
+# Curso-de-maratones-de-programacion
